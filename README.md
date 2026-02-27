@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Olá, eu sou Luan
 
-<!--
-**LuanChinaqui/LuanChinaqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+🤖 Focado em Inteligência Artificial, Machine Learning e Visão Computacional  
+🚀 Construindo fundamentos sólidos para desenvolver sistemas inteligentes escaláveis  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Áreas de Estudo
+
+- Machine Learning
+- Deep Learning
+- Visão Computacional
+- Computação Numérica
+- Estruturas de Dados e Algoritmos
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- Python  
+- NumPy  
+- TensorFlow  
+- scikit-learn  
+- OpenCV  
+- Git & Linux  
+
+---
+
+## 📚 Atualmente Estudando
+
+- Fundamentos matemáticos para IA  
+- Otimização de modelos  
+- Performance e eficiência computacional  
+- Construção de pipelines de Machine Learning  
+
+---
+
+## 🎯 Objetivo
+
+Desenvolver soluções de Inteligência Artificial com impacto real, unindo base matemática sólida, arquitetura eficiente e visão de longo prazo.
+
+---
+
+## 📈 Filosofia
+
+> Constância acima de intensidade.  
+> Fundamentos antes da complexidade.  
+> Construindo hoje o especialista que serei amanhã.
